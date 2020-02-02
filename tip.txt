@@ -1,3 +1,0 @@
-to change string to integer
-
-put int
