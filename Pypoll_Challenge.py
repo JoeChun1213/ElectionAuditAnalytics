@@ -74,13 +74,13 @@ with open(file_to_save, "w") as txt_file:
     # Save the final vote count to the text file.
     txt_file.write(election_results)
     
-    
+    print(f"\nCounty Votes:")    
     for county in county_votes:
         # Retrieve vote count and percentage for counties.
         votes = county_votes[county]
         vote_percentage = float(votes) / float(total_votes) * 100
         county_results = (
-            f"County Votes:\n"
+            
             f"{county}:{vote_percentage:.1f}%({votes:,})")    
 
         # Print each county's voter count and percentage to the terminal.
