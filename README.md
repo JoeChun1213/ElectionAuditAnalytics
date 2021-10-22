@@ -9,23 +9,7 @@ Determine the winner of the election based on popular vote.
 Resources
 -Data Source: election_results.csv (provided by client) -Software: Python 3.6.1, Visual Studio Code, 1.38.1 (Mac)
 
-## Summary
-The Analysis of the election show that: (Output in election_analysis.txt)
 
-Total Votes Cast: 369,711
-
-Candidates:
-Charles Casper Stockham
-Diana DeGette
-Raymon Anthony Doane
-
-Charles Casper Stockham received 23.0% of the vote with 85,213 total votes
-Diana DeGette received 73.8% of the vote with 272,892 total votes
-Raymon Anthony Doane received 3.1% of the vote with 11,606 total votes
-
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
 
 ## Challenge Overview
 Upon completion, Election commission expanded scope of the project to confirm and output voter turnout by county.
@@ -49,3 +33,21 @@ Denver County cast 82.8% of the vote with 306,055 total votes
 Arapahoe County cast 6.7% of the vote with 24,801 total votes
 
 Largest county turn out is Denver with 82.8% of votes cast
+
+## Summary
+The Analysis of the election show that: (Output in election_analysis.txt)
+
+Total Votes Cast: 369,711
+
+Candidates:
+Charles Casper Stockham
+Diana DeGette
+Raymon Anthony Doane
+
+Charles Casper Stockham received 23.0% of the vote with 85,213 total votes
+Diana DeGette received 73.8% of the vote with 272,892 total votes
+Raymon Anthony Doane received 3.1% of the vote with 11,606 total votes
+
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
