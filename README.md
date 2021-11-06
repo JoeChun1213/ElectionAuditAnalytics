@@ -10,7 +10,6 @@ Resources
 -Data Source: election_results.csv (provided by client) -Software: Python 3.6.1, Visual Studio Code, 1.38.1 (Mac)
 
 
-
 ## Challenge Overview
 Upon completion, Election commission expanded scope of the project to confirm and output voter turnout by county.
 
